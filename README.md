@@ -8,9 +8,13 @@ Golang 🔥 Ruby
 
 🌟 Docker Kubernetes Terraform kOps 🌟
 
+### I’m currently working on 
+
+Improving the Ministry of Justice Digital [Cloud Platform](https://github.com/ministryofjustice/cloud-platform-infrastructure/). 
+
 ### Contact me
 
-You can find me on [twitter](https://twitter.com/jsonbirchall)or drop me a line at `json.birchall@gmail.com`.
+You can find me on [twitter](https://twitter.com/jsonbirchall) or drop me a line at `json.birchall@gmail.com`.
 <!--
 **jasonBirchall/jasonBirchall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
