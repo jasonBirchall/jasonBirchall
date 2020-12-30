@@ -1,12 +1,14 @@
 ### Hi, I'm Jason
 
-I'm a London based, Infrastructure Developer, with love for new technologies 👨‍💻.
+I'm a London based Infrastructure Developer with love for new technologies 👨‍💻.
 
 ### Languages and technologies I work with
 
-Golang 🔥 Ruby
+🔥 Golang | Ruby 🔥
 
-🌟 Docker Kubernetes Terraform kOps 🌟
+🌟 Docker | Kubernetes | Terraform | kOps 🌟
+
+🔥 Linux | i3wm 🔥
 
 ### I’m currently working on 
 
