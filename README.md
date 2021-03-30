@@ -4,7 +4,7 @@ I'm a London based Infrastructure Developer with a love for new technologies �
 
 ### Languages and technologies I work with
 
-🔥 Golang | Ruby 🔥
+🔥 Go | Ruby 🔥
 
 🌟 Docker | Kubernetes | Terraform | kOps 🌟
 
