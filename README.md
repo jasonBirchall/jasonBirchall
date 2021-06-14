@@ -82,33 +82,7 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
-
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://jasonBirchall.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-   647.0 hr  ┤                                                                                                ╭── 
-   645.7 hr  ┤                                                                                               ╭╯   
-   644.5 hr  ┤                                                                                             ╭─╯    
-   643.3 hr  ┤                                                                                            ╭╯      
-   642.1 hr  ┤                                                                                           ╭╯       
-   640.9 hr  ┤                                                                                ╭──────────╯        
-   639.7 hr  ┤                                                                              ╭─╯                   
-   638.5 hr  ┤                                                                             ╭╯                     
-   637.3 hr  ┤                                  ╭──────────────────────────────────────────╯                      
-   636.1 hr  ┤                   ╭──────────────╯                                                                 
-   634.9 hr  ┤          ╭────────╯                                                                                
-   633.7 hr  ┤        ╭─╯                                                                                         
-   632.5 hr  ┼────────╯                                                                                           
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- links -->
 
