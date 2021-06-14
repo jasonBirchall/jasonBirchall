@@ -1,7 +1,7 @@
 <h1 align="left" id="jason-title">:wave: Hello there! I'm Jason Birchall</h1>
 
 <a href="https://github.com/jasonBirchall/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasonBirchall&theme=gruvbox" alt="jasonbirchall" align="right" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jasonBirchall&theme=gruvbox" alt="jasonbirchall" align="left" />
 </a>
 
 <h3 align="left">I am a Versatilist, doing SRE/DevOps Engineering things</h3>
@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jasonbirchall&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" alt="jasonbirchall" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Ministry of Justice Digital**
+- :office: &nbsp;I'm currently working at **Ministry of Justice Digital**, improving their [cloud-platform]() offering
 - :seedling: &nbsp;I’m currently learning **Go** and **Kubernetes**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 
