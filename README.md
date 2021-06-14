@@ -51,6 +51,12 @@
     </td>
     <td align="center"  width="96">
       <a href="#jasonBirchall-tech">
+        <img src="./img/terraform.png" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+    <td align="center"  width="96">
+      <a href="#jasonBirchall-tech">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
       </a>
       <br>Debian
