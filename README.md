@@ -1,9 +1,4 @@
 <h1 align="left" id="jason-title">:wave: Hello there! I'm Jason Birchall</h1>
-
-<a href="https://github.com/jasonBirchall/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasonBirchall&theme=gruvbox" alt="jasonbirchall" align="left" />
-</a>
-
 <h3 align="left">I am a Versatilist, doing SRE/DevOps Engineering things</h3>
 
 <a href="#jasonBirchall-title">
@@ -16,6 +11,9 @@
 
 
 <br>
+<a href="https://github.com/jasonBirchall/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=jasonBirchall&theme=gruvbox" alt="jasonbirchall" align="left" />
+</a>
 
 <h2>Connect with me</h3>
 <p>
