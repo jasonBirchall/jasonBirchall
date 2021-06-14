@@ -1,5 +1,6 @@
 <h1 align="left" id="jason-title">:wave: Hello there! I'm Jason Birchall</h1>
 <h3 align="left">I am a Versatilist, doing SRE/DevOps Engineering things</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jasonBirchall&theme=gruvbox)](https://github.com/jasonBirchall/github-profile-trophy)
 
 <a href="#jasonBirchall-title">
   <img src="https://github-readme-stats.vercel.app/api?username=jasonbirchall&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" alt="jasonbirchall" align="right" />
@@ -12,12 +13,6 @@
 
 <br>
 
-<h2 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jsonBirchall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://keybase.io/json0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/kakorate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="" height="30" width="40" /></a>
-</p>
 
 <h2 align="left" id="jasonBirchall-tech">Technologies</h2>
 
@@ -90,6 +85,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall&theme=gruvbox&hide=Vim%script" alt="jasonbirchall" align="right" />
 </a>
 
+<h2 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jsonBirchall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://keybase.io/json0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/kakorate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="" height="30" width="40" /></a>
+</p>
 <!-- links -->
 
 [issues page]: https://github.com/jasonBirchall/jasonBirchall/issues "jasonBirchall/issues"
