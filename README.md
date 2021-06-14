@@ -11,11 +11,14 @@
 
 
 <br>
+
+<div class ="jasonBirchall-trophy">
 <a href="https://github.com/jasonBirchall/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=jasonBirchall&theme=gruvbox" alt="jasonbirchall" align="left" />
 </a>
+</div>
 
-<h2>Connect with me</h3>
+<h2>Connect with me</h2>
 <p>
 <a href="https://twitter.com/jsonBirchall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://keybase.io/json0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="" height="30" width="40" /></a>
