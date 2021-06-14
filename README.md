@@ -11,7 +11,7 @@
 - :computer: &nbsp;Connect with me on **[Twitter]**
 
 <br>
-<h2 align="left" id="jasonBirchall-tech">Favorite Tech</h2>
+<h2 align="left" id="jasonBirchall-tech">Technologies</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -29,19 +29,25 @@
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <a href="#jasonBirchall-tech">
+        <img src="./img/ruby.png" width="48" height="48" alt="Ruby" />
+      </a>
+      <br>Ruby
+    </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#jasonBirchall-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
     <td align="center" width="96">
       <a href="#jasonBirchall-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#jasonBirchall-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
     </td>
     <td align="center"  width="96">
       <a href="#jasonBirchall-tech">
