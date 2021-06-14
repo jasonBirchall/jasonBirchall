@@ -18,6 +18,8 @@
 </a>
 </div>
 
+<br>
+
 <h2>Connect with me</h2>
 <p>
 <a href="https://twitter.com/jsonBirchall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -92,8 +94,8 @@
   </tr>
 </table>
 
-<a href="#jasonBirchall-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall&theme=gruvbox&hide=Vim%script" alt="jasonbirchall" align="right" />
+<a href="#jasonBirchall-toplanguages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall&theme=gruvbox&hide=vim%script" alt="jasonbirchall" align="right" />
 </a>
 
 <!-- links -->
