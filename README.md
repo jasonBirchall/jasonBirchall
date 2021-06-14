@@ -55,6 +55,8 @@
       </a>
       <br>Terraform
     </td>
+  </tr>
+  <tr>
     <td align="center"  width="96">
       <a href="#jasonBirchall-tech">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
@@ -73,16 +75,12 @@
       </a>
       <br>Prometheus
     </td>
-    <td align="center" width="96">
-      <a href="#jasonBirchall-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
-    </td>
   </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#jasonBirchall-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall" alt="jasonbirchall" align="right" />
+</a>
 
 <!-- links -->
 
