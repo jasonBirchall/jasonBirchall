@@ -2,7 +2,7 @@
 <h3 align="left">I am a Versatilist, doing SRE/DevOps Engineering things</h3>
 
 <a href="#jasonBirchall-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonbirchall&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="jasonbirchall" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonbirchall&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" alt="jasonbirchall" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Ministry of Justice Digital**
@@ -79,7 +79,7 @@
 </table>
 
 <a href="#jasonBirchall-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall&theme=dark&hide=vimscript" alt="jasonbirchall" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall&theme=gruvbox&hide=Vim%script" alt="jasonbirchall" align="right" />
 </a>
 
 <!-- links -->
