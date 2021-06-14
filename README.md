@@ -12,14 +12,6 @@
 
 <br>
 
-<div class ="jasonBirchall-trophy">
-<a href="https://github.com/jasonBirchall/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasonBirchall&theme=gruvbox" alt="jasonbirchall" align="left" />
-</a>
-</div>
-
-<br>
-
 <h2>Connect with me</h2>
 <p>
 <a href="https://twitter.com/jsonBirchall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -95,7 +87,7 @@
 </table>
 
 <a href="#jasonBirchall-toplanguages">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall&theme=gruvbox&hide=vim%script" alt="jasonbirchall" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall&theme=gruvbox&hide=vim" alt="jasonbirchall" align="right" />
 </a>
 
 <!-- links -->
