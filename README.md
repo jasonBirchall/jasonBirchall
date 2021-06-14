@@ -1,6 +1,27 @@
-### Hi, I'm Jason
+<h1 align="left" id="jason-title">:wave: Hello there! I'm Jason Birchall</h1>
+<h3 align="left">I am a Versatilist, doing SRE/DevOps Engineering things</h3>
 
-I'm a London based Infrastructure Developer with a love for new technologies 👨‍💻.
+<p align="left">
+  <a href="https://github.com/jasonBirchall/jasonBirchall">
+    <img src="https://komarev.com/ghpvc/?username=jasonBirchall" alt="page views" />
+  </a>
+  <a href="https://jasonBirchall.readthedocs.io/en/latest">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/jasonBirchall?logo=read-the-docs">
+  </a>
+  <a href="https://stackoverflow.com/users/4868262">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://reddit.com/u/jasonBirchall">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/jasonBirchall?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/jasonBirchall?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jasonBirchall?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
+
 
 ### Languages and technologies I work with
 
