@@ -88,8 +88,8 @@
 
 <br>
 
-<h2 align="left">Connect with me:</h3>
-<p align="left">
+<h2>Connect with me:</h3>
+<p>
 <a href="https://twitter.com/jsonBirchall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://keybase.io/json0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/keybase.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/kakorate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="" height="30" width="40" /></a>
