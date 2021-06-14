@@ -1,6 +1,7 @@
 <h1 align="left" id="jason-title">:wave: Hello there! I'm Jason Birchall</h1>
-<h3 align="left">I am a Versatilist, doing SRE/DevOps Engineering things</h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=jasonBirchall&theme=gruvbox)](https://github.com/jasonBirchall/github-profile-trophy)
+
+<h3 align="left">I am a Versatilist, doing SRE/DevOps Engineering things</h3>
 
 <a href="#jasonBirchall-title">
   <img src="https://github-readme-stats.vercel.app/api?username=jasonbirchall&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" alt="jasonbirchall" align="right" />
@@ -84,6 +85,8 @@
 <a href="#jasonBirchall-title">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall&theme=gruvbox&hide=Vim%script" alt="jasonbirchall" align="right" />
 </a>
+
+<br>
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
