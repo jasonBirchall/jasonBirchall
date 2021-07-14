@@ -3,14 +3,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=jasonBirchall&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <a href="#jasonBirchall-title"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=jasonbirchall&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" alt="jasonbirchall" align="right" /> -->
-
-<!-- </a> -->
-
-- :office: &nbsp;I'm currently working at **Ministry of Justice Digital**, improving their [cloud-platform](https://github.com/ministryofjustice/cloud-platform) offering
-- :seedling: &nbsp;I’m currently learning **Go** and **Kubernetes**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :office: &nbsp;I'm currently working at **Ministry of Justice Digital**, improving their [cloud-platform](https://github.com/ministryofjustice/cloud-platform) offering.
+- :seedling: &nbsp;I’m currently learning **Go** and **Kubernetes**.
+- :mailbox: &nbsp;Ask me anything on my **[issues page]** or using the connections below.
 
 
 <br>
@@ -22,72 +17,7 @@
 <a href="https://www.reddit.com/user/kakorate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<h2 align="left" id="jasonBirchall-tech">Technologies</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table align="left">
-  <tr>
-    <td align="center" width="96">
-      <a href="#jasonBirchall-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#jasonBirchall-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#jasonBirchall-tech">
-        <img src="./img/ruby.png" width="48" height="48" alt="Ruby" />
-      </a>
-      <br>Ruby
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#jasonBirchall-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#jasonBirchall-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#jasonBirchall-tech">
-        <img src="./img/terraform.png" width="48" height="48" alt="Terraform" />
-      </a>
-      <br>Terraform
-    </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-      <a href="#jasonBirchall-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#jasonBirchall-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="#jasonBirchall-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-  </tr>
-</table>
+<h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
