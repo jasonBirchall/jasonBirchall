@@ -1,7 +1,7 @@
 <h1 align="left" id="jason-title">:wave: Hello there! I'm Jason Birchall</h1>
 <h3 align="left">I am a Versatilist, doing SRE/DevOps Engineering things</h3>
 
-[![jasonBirchall's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jasonbirchall)](https://wakatime.com/@c7acbec9-4acb-4ba4-a87c-16f84e018aac)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonBirchall&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a href="#jasonBirchall-title"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=jasonbirchall&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" alt="jasonbirchall" align="right" /> -->
