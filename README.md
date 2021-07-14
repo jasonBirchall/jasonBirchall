@@ -90,7 +90,7 @@
 </table>
 
 <a href="#jasonBirchall-toplanguages">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jasonBirchall&theme=gruvbox&hide=vimscript" alt="jasonbirchall" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=json.birchall@gmail.com&theme=gruvbox&hide=vimscript" alt="jasonbirchall" align="right" />
 </a>
 
 <!-- links -->
