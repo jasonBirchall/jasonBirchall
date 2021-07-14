@@ -89,9 +89,8 @@
   </tr>
 </table>
 
-<a href="#jasonBirchall-toplanguages">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jasonBirchall" alt="jasonbirchall" align="right" />
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- links -->
 
