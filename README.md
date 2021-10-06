@@ -63,16 +63,16 @@ Sunday       26 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   0 secs              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cloud-platform-environmen0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ HCL                      3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonBirchall/jasonBirchall/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/10/2021
+ Last Updated on 06/10/2021
 <!--END_SECTION:waka-->
 
 <!-- links -->
