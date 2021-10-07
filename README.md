@@ -24,7 +24,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,225 Contributions in the Year 2021
+> 🏆 2,229 Contributions in the Year 2021
  > 
 > 📦 33.9 kB Used in GitHub's Storage 
  > 
@@ -93,7 +93,7 @@ HCL                      3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonBirchall/jasonBirchall/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/10/2021
+ Last Updated on 07/10/2021
 <!--END_SECTION:waka-->
 
 <!-- links -->
