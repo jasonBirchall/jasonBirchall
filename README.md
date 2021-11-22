@@ -20,11 +20,11 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,647 Contributions in the Year 2021
+> 🏆 2,648 Contributions in the Year 2021
  > 
 > 📦 34.1 kB Used in GitHub's Storage 
  > 
@@ -101,7 +101,7 @@ HCL                      3 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonBirchall/jasonBirchall/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->
 
 <!-- links -->
