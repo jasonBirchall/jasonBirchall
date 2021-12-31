@@ -63,21 +63,16 @@ Sunday       25 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Go                       1 hr 29 mins        █████████████████████████   99.6% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        ███████████████████████░░   94.84% 
-Neovim                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.16%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cloud-platform-doc-checke50 mins             ██████████████░░░░░░░░░░░   56.52% 
-jason-project            32 mins             █████████░░░░░░░░░░░░░░░░   36.24% 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.16% 
-homebrew                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 29 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -98,7 +93,7 @@ HCL                      4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonBirchall/jasonBirchall/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/12/2021
+ Last Updated on 31/12/2021
 <!--END_SECTION:waka-->
 
 <!-- links -->
