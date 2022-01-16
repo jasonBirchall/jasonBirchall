@@ -20,7 +20,7 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -101,7 +101,7 @@ HCL                      4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonBirchall/jasonBirchall/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/01/2022
+ Last Updated on 16/01/2022
 <!--END_SECTION:waka-->
 
 <!-- links -->
