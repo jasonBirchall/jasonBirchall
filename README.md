@@ -24,13 +24,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 380 Contributions in the Year 2022
+> 🏆 381 Contributions in the Year 2022
  > 
 > 📦 44.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -102,7 +102,7 @@ HCL                      4 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jasonBirchall/jasonBirchall/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/03/2022 18:46:24 UTC
+ Last Updated on 28/03/2022 18:48:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
