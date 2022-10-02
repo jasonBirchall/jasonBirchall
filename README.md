@@ -20,7 +20,7 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-795%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,7 +96,7 @@ HCL                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2022 18:53:04 UTC
+ Last Updated on 02/10/2022 18:53:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
