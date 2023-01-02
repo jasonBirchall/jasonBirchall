@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,7 +96,7 @@ HCL                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2023 18:38:39 UTC
+ Last Updated on 02/01/2023 18:39:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
