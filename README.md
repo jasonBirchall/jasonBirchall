@@ -1,7 +1,4 @@
 <h1 align="left" id="jason-title">:wave: Hello there! I'm Jason Birchall</h1>
-<h3 align="left">I am a Versatilist, doing SRE/DevOps Engineering things</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=jasonBirchall&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 - :office: &nbsp;I'm currently working at **Ministry of Justice Digital**, improving their [cloud-platform](https://github.com/ministryofjustice/cloud-platform) offering.
 - :seedling: &nbsp;I’m currently learning **Go** and **Kubernetes**.
