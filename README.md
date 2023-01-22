@@ -17,7 +17,7 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-911%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -94,7 +94,7 @@ HCL                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2023 18:38:35 UTC
+ Last Updated on 22/01/2023 18:38:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
