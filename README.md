@@ -1,7 +1,7 @@
 <h1 align="left" id="jason-title">:wave: Hello there! I'm Jason Birchall</h1>
 
-- :office: &nbsp;I'm currently working at **Ministry of Justice Digital**, improving their [cloud-platform](https://github.com/ministryofjustice/cloud-platform) offering.
-- :seedling: &nbsp;I’m currently learning **Go** and **Kubernetes**.
+- :office: &nbsp;I'm currently working at **Ministry of Justice Digital**, improving their [operations-engineering](https://github.com/ministryofjustice/operations-engineering) offering.
+- :seedling: &nbsp;I’m currently learning **Python** and **Machine Learning**.
 - :mailbox: &nbsp;Ask me anything on my **[issues page]** or using the connections below.
 
 
