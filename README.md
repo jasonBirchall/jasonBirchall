@@ -52,13 +52,15 @@ Sunday                   841 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     20 mins             █████████████████████████   98.08 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   20 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blog                     20 mins             █████████████████████████   98.72 % 
+github-style             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +76,7 @@ Smarty                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2024 19:36:29 UTC
+ Last Updated on 10/08/2024 19:27:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
