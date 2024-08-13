@@ -1,7 +1,5 @@
 <h1 align="left" id="jason-title">:wave: Hello there! I'm Jason Birchall</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Tech+Autodidact%2C+Engineer+%26+Programmer;Loves+to+solve+technology+problems+by+code;Likes+to+build+scalable%2C+secure+applications)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&multiline=true&width=435&lines=-+Working+at+The+Ministry+of+Justice+Digital.;-+Learning+Python+and+Machine+Learning.;-+Contact+me+via+Twitter+or+via+my+issues+page.)](https://git.io/typing-svg)
 
 <br>
