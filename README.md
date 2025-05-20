@@ -1,7 +1,12 @@
-<h1 align="left" id="jason-title">:wave: Hello there! I'm Jason Birchall</h1>
+<h1 align="left" id="jason-title">:wave: Hi I'm Jason</h1>
 
-- :office: &nbsp;I'm currently working at **GDS** as a Lead SRE for GOV.UK.
-- :seedling: &nbsp;I’m currently learning **control** & **systems** theory.
+- 🏛️ &nbsp;**Lead Site Reliability Engineer** at the Government Digital Service — keeping [GOV.UK](https://www.gov.uk/) fast, resilient, and secure for millions of users.  
+- 🎓 &nbsp;Part-time student, currently deep-diving into **control & systems theory**.  
+- 🛠️ &nbsp;Daily toolkit: Python · Go · Kubernetes · Terraform · AWS · GitHub Actions · Prometheus · Grafana.  
+- 🌱 &nbsp;Keen on AI-driven automation, sustainable tech, and helping teams reach flow state quickly.  
+- 🧩 &nbsp;Weekend hobbyist: mathematical modelling & coding puzzles (often with cheering toddlers 👶👶). 
+- 🤝 &nbsp;Open to collaborating on open-source SRE/DevOps tooling and chaos-engineering experiments — feel free to reach out via Issues or Discussions.
+
 
 <h2>Metrics</h2>
 
