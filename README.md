@@ -1,10 +1,8 @@
 <h1 align="left" id="jason-title">:wave: Hi I'm Jason</h1>
 
-- 🏛️ &nbsp;**Lead Site Reliability Engineer** at the Government Digital Service — keeping [GOV.UK](https://www.gov.uk/) fast, resilient, and secure for millions of users.  
+- 🏛️ &nbsp;**Lead Site Reliability Engineer** at the Government Digital Service; keeping [GOV.UK](https://www.gov.uk/) fast and reliable.
 - 🎓 &nbsp;Part-time student, currently deep-diving into **control & systems theory**.  
-- 🛠️ &nbsp;Daily toolkit: Python · Go · Kubernetes · Terraform · AWS · GitHub Actions · Prometheus · Grafana.  
-- 🌱 &nbsp;Keen on AI-driven automation, sustainable tech, and helping teams reach flow state quickly.  
-- 🧩 &nbsp;Weekend hobbyist: mathematical modelling & coding puzzles (often with cheering toddlers 👶👶). 
+- 🛠️ &nbsp;Daily toolkit: Python · Go · Kubernetes  
 - 🤝 &nbsp;Open to collaborating on open-source SRE/DevOps tooling and chaos-engineering experiments — feel free to reach out via Issues or Discussions.
 
 
