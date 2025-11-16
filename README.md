@@ -9,7 +9,7 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,7 +72,7 @@ Smarty                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 21:16:58 UTC
+ Last Updated on 16/11/2025 21:26:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
