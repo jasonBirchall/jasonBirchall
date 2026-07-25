@@ -38,8 +38,8 @@ Monday                   896 commits         ██░░░░░░░░░�
 Tuesday                  3484 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
 Wednesday                1601 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
 Thursday                 1499 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Friday                   1067 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Saturday                 564 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Friday                   1066 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Saturday                 565 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 Sunday                   127 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
@@ -50,19 +50,20 @@ Sunday                   127 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-TypeScript               1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Markdown                 1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Nix                      1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-CSS                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Makefile                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Markdown                 2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+TypeScript               1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Nix                      1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Makefile                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 8 mins        ██████████████████████░░░   86.51 % 
-Neovim                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Claude Code              7 hrs 33 mins       ███████████████████████░░   90.04 % 
+Neovim                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 
 🐱‍💻 Projects: 
-feedmark                 4 hrs 11 mins       ██████████████████░░░░░░░   70.36 % 
-dotfiles                 1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+feedmark                 4 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.81 % 
+dotfiles                 4 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.26 % 
+zettelkasten             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 **I Mostly Code in Go** 
@@ -78,7 +79,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:15:38 UTC
+ Last Updated on 25/07/2026 20:01:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
