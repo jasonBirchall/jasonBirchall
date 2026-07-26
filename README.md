@@ -13,9 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 67.5 kB Used in GitHub's Storage 
+> 📦 67.3 kB Used in GitHub's Storage 
  > 
-> 🏆 431 Contributions in the Year 2026
+> 🏆 433 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2979 commits        ████████░░░░░░░░░░░░░░░░░   32.25 % 
-🌆 Daytime                5210 commits        ██████████████░░░░░░░░░░░   56.40 % 
-🌃 Evening                970 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-🌙 Night                  79 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+🌞 Morning                2980 commits        ████████░░░░░░░░░░░░░░░░░   32.33 % 
+🌆 Daytime                5193 commits        ██████████████░░░░░░░░░░░   56.34 % 
+🌃 Evening                946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+🌙 Night                  99 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   896 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Tuesday                  3484 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
-Wednesday                1601 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Thursday                 1499 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Friday                   1066 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Saturday                 565 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Sunday                   127 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Monday                   895 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Tuesday                  3480 commits        █████████░░░░░░░░░░░░░░░░   37.75 % 
+Wednesday                1603 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Thursday                 1474 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Friday                   1062 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Saturday                 570 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Sunday                   134 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
@@ -50,20 +50,22 @@ Sunday                   127 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-TypeScript               1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Nix                      1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Makefile                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Markdown                 3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.22 % 
+TypeScript               1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+Nix                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Makefile                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 33 mins       ███████████████████████░░   90.04 % 
-Neovim                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Claude Code              6 hrs 51 mins       █████████████████████░░░░   85.65 % 
+Neovim                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 
 🐱‍💻 Projects: 
-feedmark                 4 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.81 % 
-dotfiles                 4 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.26 % 
-zettelkasten             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+feedmark                 4 hrs 2 mins        █████████████░░░░░░░░░░░░   50.48 % 
+dotfiles                 3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
+Unknown Project          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+blog                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+zettelkasten             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 
 **I Mostly Code in Go** 
@@ -79,7 +81,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 20:01:25 UTC
+ Last Updated on 26/07/2026 20:01:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
