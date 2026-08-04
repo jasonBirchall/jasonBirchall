@@ -1,9 +1,9 @@
 <h1 align="left" id="jason-title">:wave: Hi I'm Jason</h1>
 
-- 🏛️ &nbsp;**Lead Site Reliability Engineer** at the Government Digital Service; keeping [GOV.UK](https://www.gov.uk/) fast and reliable.
+- 🏛️ &nbsp;**Staff Software Enginering** at Mozilla; working on the Firefox extensions ecosystem.
 - 🎓 &nbsp;Part-time student, currently deep-diving into **control & systems theory**.  
 - 🛠️ &nbsp;Daily toolkit: Python · Go · Kubernetes  
-- 🤝 &nbsp;Open to collaborating on open-source SRE/DevOps tooling and chaos-engineering experiments — feel free to reach out via Issues or Discussions.
+- 🤝 &nbsp;Open to collaborating on open-source SRE/DevOps tooling and chaos-engineering experiments — feel free to reach out via Mastodon.
 
 
 <h2>Metrics</h2>
