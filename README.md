@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3142 commits        ████████░░░░░░░░░░░░░░░░░   32.06 % 
-🌆 Daytime                5578 commits        ██████████████░░░░░░░░░░░   56.92 % 
-🌃 Evening                1074 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+🌞 Morning                3169 commits        ████████░░░░░░░░░░░░░░░░░   32.12 % 
+🌆 Daytime                5613 commits        ██████████████░░░░░░░░░░░   56.89 % 
+🌃 Evening                1080 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
 🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Tuesday                  3716 commits        █████████░░░░░░░░░░░░░░░░   37.92 % 
-Wednesday                1689 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Thursday                 1488 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Friday                   1145 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Saturday                 631 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Sunday                   116 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Monday                   1019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Tuesday                  3741 commits        █████████░░░░░░░░░░░░░░░░   37.91 % 
+Wednesday                1707 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Thursday                 1504 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Friday                   1144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Saturday                 634 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Sunday                   118 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 
@@ -52,19 +52,40 @@ Sunday                   116 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     17 mins             █████████░░░░░░░░░░░░░░░░   36.00 % 
+YAML                     13 mins             ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+Nix                      11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Public Key               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   35 mins             ███████████████████░░░░░░   75.09 % 
+Claude Code              11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+webservices-infra        26 mins             ██████████████░░░░░░░░░░░   55.51 % 
+dotfiles                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Unknown Project          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+global-platform-admin    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 13 mins (29.03%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 11 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 47 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -80,7 +101,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:25:47 UTC
+ Last Updated on 19/08/2026 19:24:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
