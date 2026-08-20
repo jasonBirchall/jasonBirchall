@@ -9,15 +9,15 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 67.4 kB Used in GitHub's Storage 
  > 
-> 🏆 417 Contributions in the Year 2026
+> 🏆 418 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3169 commits        ████████░░░░░░░░░░░░░░░░░   32.12 % 
-🌆 Daytime                5613 commits        ██████████████░░░░░░░░░░░   56.89 % 
-🌃 Evening                1080 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+🌞 Morning                3194 commits        ████████░░░░░░░░░░░░░░░░░   32.14 % 
+🌆 Daytime                5653 commits        ██████████████░░░░░░░░░░░   56.88 % 
+🌃 Evening                1086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Tuesday                  3741 commits        █████████░░░░░░░░░░░░░░░░   37.91 % 
-Wednesday                1707 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Thursday                 1504 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Friday                   1144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Saturday                 634 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Sunday                   118 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Monday                   1024 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Tuesday                  3753 commits        █████████░░░░░░░░░░░░░░░░   37.76 % 
+Wednesday                1737 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Thursday                 1523 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Friday                   1143 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Saturday                 638 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Sunday                   120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 
 
@@ -52,26 +52,27 @@ Sunday                   118 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Text                     17 mins             █████████░░░░░░░░░░░░░░░░   36.00 % 
-YAML                     13 mins             ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-Nix                      11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-Public Key               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Text                     22 mins             ███████████░░░░░░░░░░░░░░   42.32 % 
+YAML                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Nix                      11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Public Key               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 
 🔥 Editors: 
-Neovim                   35 mins             ███████████████████░░░░░░   75.09 % 
-Claude Code              11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+Neovim                   40 mins             ███████████████████░░░░░░   77.55 % 
+Claude Code              11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
 
 🐱‍💻 Projects: 
-webservices-infra        26 mins             ██████████████░░░░░░░░░░░   55.51 % 
-dotfiles                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-Unknown Project          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-global-platform-admin    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+webservices-infra        26 mins             █████████████░░░░░░░░░░░░   50.02 % 
+dotfiles                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+addons-server            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+global-platform-admin    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (29.03%)
+⏱ AI Coding Time: 13 mins (26.16%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -101,7 +102,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:24:21 UTC
+ Last Updated on 20/08/2026 19:31:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
