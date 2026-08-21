@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 67.4 kB Used in GitHub's Storage 
+> 📦 67.5 kB Used in GitHub's Storage 
  > 
 > 🏆 418 Contributions in the Year 2026
  > 
@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3194 commits        ████████░░░░░░░░░░░░░░░░░   32.14 % 
-🌆 Daytime                5653 commits        ██████████████░░░░░░░░░░░   56.88 % 
-🌃 Evening                1086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-🌙 Night                  5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+🌞 Morning                3061 commits        ████████░░░░░░░░░░░░░░░░░   32.35 % 
+🌆 Daytime                5375 commits        ██████████████░░░░░░░░░░░   56.80 % 
+🌃 Evening                1023 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1024 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Tuesday                  3753 commits        █████████░░░░░░░░░░░░░░░░   37.76 % 
-Wednesday                1737 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Thursday                 1523 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Friday                   1143 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Saturday                 638 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Sunday                   120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Monday                   965 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Tuesday                  3546 commits        █████████░░░░░░░░░░░░░░░░   37.47 % 
+Wednesday                1687 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Thursday                 1484 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Friday                   1072 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Saturday                 588 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Sunday                   121 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
@@ -52,41 +52,44 @@ Sunday                   120 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Text                     22 mins             ███████████░░░░░░░░░░░░░░   42.32 % 
-YAML                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-Nix                      11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-Public Key               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Text                     26 mins             █████████░░░░░░░░░░░░░░░░   35.47 % 
+Other                    15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+YAML                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Nix                      11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Public Key               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🔥 Editors: 
-Neovim                   40 mins             ███████████████████░░░░░░   77.55 % 
-Claude Code              11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Neovim                   47 mins             ████████████████░░░░░░░░░   63.35 % 
+Claude Code              27 mins             █████████░░░░░░░░░░░░░░░░   36.65 % 
 
 🐱‍💻 Projects: 
-webservices-infra        26 mins             █████████████░░░░░░░░░░░░   50.02 % 
-dotfiles                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-addons-server            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-global-platform-admin    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+webservices-infra        26 mins             █████████░░░░░░░░░░░░░░░░   35.45 % 
+addons-server            22 mins             ████████░░░░░░░░░░░░░░░░░   30.66 % 
+dotfiles                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+global-platform-admin    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (26.16%)
+⏱ AI Coding Time: 29 mins (39.54%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 1,151,979 Input Tokens, 9,492 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $6.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 11 AI Prompts
+🧠 2 AI Sessions, 27 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 47 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 383 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -102,7 +105,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:31:15 UTC
+ Last Updated on 21/08/2026 19:24:23 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
