@@ -9,13 +9,13 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 67.6 kB Used in GitHub's Storage 
+> 📦 67.5 kB Used in GitHub's Storage 
  > 
 > 🏆 423 Contributions in the Year 2026
  > 
@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3007 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
-🌆 Daytime                5272 commits        ██████████████░░░░░░░░░░░   56.78 % 
-🌃 Evening                1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+🌞 Morning                2971 commits        ████████░░░░░░░░░░░░░░░░░   32.29 % 
+🌆 Daytime                5227 commits        ██████████████░░░░░░░░░░░   56.81 % 
+🌃 Evening                999 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   954 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Tuesday                  3455 commits        █████████░░░░░░░░░░░░░░░░   37.21 % 
-Wednesday                1667 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Thursday                 1478 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Friday                   1043 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Saturday                 565 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Sunday                   123 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Monday                   946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Tuesday                  3429 commits        █████████░░░░░░░░░░░░░░░░   37.27 % 
+Wednesday                1644 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Thursday                 1453 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Friday                   1044 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Saturday                 565 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Sunday                   120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 
@@ -52,42 +52,41 @@ Sunday                   123 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 50 mins             █████████████░░░░░░░░░░░░   51.47 % 
-Rust                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-Python                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-gitrebase                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Text                     49 mins             ████████░░░░░░░░░░░░░░░░░   33.95 % 
+Python                   33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Other                    26 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Rust                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 🔥 Editors: 
-Claude Code              59 mins             ███████████████░░░░░░░░░░   60.78 % 
-Neovim                   38 mins             ██████████░░░░░░░░░░░░░░░   39.22 % 
+Claude Code              1 hr 42 mins        ██████████████████░░░░░░░   70.09 % 
+Neovim                   43 mins             ███████░░░░░░░░░░░░░░░░░░   29.91 % 
 
 🐱‍💻 Projects: 
-addons-server            1 hr 6 mins         █████████████████░░░░░░░░   68.19 % 
-rustlings                30 mins             ████████░░░░░░░░░░░░░░░░░   30.90 % 
-dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+addons-server            1 hr 55 mins        ████████████████████░░░░░   79.36 % 
+rustlings                30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 7 mins (68.99%)
+⏱ AI Coding Time: 1 hr 54 mins (78.7%)
 
-✍️ 434 lines written by AI, 125 lines written by hand (77.64% AI-written)
+✍️ 286 lines written by AI, 4 lines written by hand (98.62% AI-written)
 
-🔤 9,472,931 Input Tokens, 42,663 Output Tokens
+🔤 27,857,082 Input Tokens, 59,992 Output Tokens
 
-💵 $96.86 Estimated AI Cost This Week
+💵 $281.57 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 11 AI Prompts
+🧠 3 AI Sessions, 22 AI Prompts
 
-Fable                    434 lines           █████████████████████████   100.00 % 
+Fable                    287 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.64% of written lines came from AI
-📚 Verbose Prompter — average 1,608 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 22.36% of changed lines were hand-edited
+🤖 AI-Driven — 98.62% of written lines came from AI
+📄 Detailed Prompter — average 563 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -103,7 +102,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:34:13 UTC
+ Last Updated on 04/09/2026 21:14:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
