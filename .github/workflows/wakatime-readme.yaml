@@ -18,3 +18,4 @@ jobs:
           SHOW_OS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
