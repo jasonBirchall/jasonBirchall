@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3213 commits        ████████░░░░░░░░░░░░░░░░░   32.48 % 
-🌆 Daytime                5605 commits        ██████████████░░░░░░░░░░░   56.66 % 
-🌃 Evening                1071 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+🌞 Morning                3256 commits        ████████░░░░░░░░░░░░░░░░░   32.52 % 
+🌆 Daytime                5667 commits        ██████████████░░░░░░░░░░░   56.60 % 
+🌃 Evening                1086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Tuesday                  3716 commits        █████████░░░░░░░░░░░░░░░░   37.56 % 
-Wednesday                1758 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Thursday                 1551 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Friday                   1110 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Saturday                 629 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Sunday                   126 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Monday                   1010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Tuesday                  3765 commits        █████████░░░░░░░░░░░░░░░░   37.60 % 
+Wednesday                1782 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Thursday                 1568 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Friday                   1116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Saturday                 644 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Sunday                   128 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
@@ -50,22 +50,21 @@ Sunday                   126 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 1 hr 36 mins        ██████████████░░░░░░░░░░░   56.91 % 
-Text                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Markdown                 1 hr 7 mins         █████████████████░░░░░░░░   69.24 % 
+Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 1 min         ██████████████████░░░░░░░   71.82 % 
-Neovim                   47 mins             ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+Claude Code              1 hr 17 mins        ████████████████████░░░░░   79.82 % 
+Neovim                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
 
 🐱‍💻 Projects: 
-addons-server            1 hr 27 mins        █████████████░░░░░░░░░░░░   51.82 % 
-firefox                  46 mins             ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Unknown Project          22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-jsond                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-dotfiles                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+addons-server            1 hr 11 mins        ██████████████████░░░░░░░   73.05 % 
+jsond                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+firefox                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+dotfiles                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 ```
 
 **I Mostly Code in Go** 
@@ -81,7 +80,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:52:57 UTC
+ Last Updated on 17/09/2026 21:56:03 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
