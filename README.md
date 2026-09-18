@@ -9,7 +9,7 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3256 commits        ████████░░░░░░░░░░░░░░░░░   32.52 % 
-🌆 Daytime                5667 commits        ██████████████░░░░░░░░░░░   56.60 % 
-🌃 Evening                1086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+🌞 Morning                3244 commits        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌆 Daytime                5651 commits        ██████████████░░░░░░░░░░░   56.61 % 
+🌃 Evening                1083 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1010 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Tuesday                  3765 commits        █████████░░░░░░░░░░░░░░░░   37.60 % 
-Wednesday                1782 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Thursday                 1568 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Friday                   1116 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Saturday                 644 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Sunday                   128 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Monday                   1007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Tuesday                  3756 commits        █████████░░░░░░░░░░░░░░░░   37.63 % 
+Wednesday                1775 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Thursday                 1560 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Friday                   1115 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Saturday                 642 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Sunday                   127 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 
@@ -50,21 +50,21 @@ Sunday                   128 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         █████████████████░░░░░░░░   69.24 % 
-Other                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Text                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Markdown                 1 hr 9 mins         ██████████████████░░░░░░░   73.58 % 
+Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-Claude Code              1 hr 17 mins        ████████████████████░░░░░   79.82 % 
-Neovim                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Claude Code              1 hr 15 mins        ████████████████████░░░░░   79.91 % 
+Neovim                   18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 
 🐱‍💻 Projects: 
-addons-server            1 hr 11 mins        ██████████████████░░░░░░░   73.05 % 
-jsond                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-firefox                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-dotfiles                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+addons-server            1 hr 6 mins         ██████████████████░░░░░░░   70.48 % 
+jsond                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+firefox                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+dotfiles                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 
 **I Mostly Code in Go** 
@@ -72,7 +72,7 @@ dotfiles                 2 mins              █░░░░░░░░░░�
 ```text
 Go                       15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
 Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Shell                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Shell                    7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
@@ -80,7 +80,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 21:56:03 UTC
+ Last Updated on 18/09/2026 21:25:16 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
