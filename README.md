@@ -50,20 +50,21 @@ Sunday                   132 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 53 mins             ██████████████░░░░░░░░░░░   54.93 % 
-Terraform                26 mins             ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Markdown                 53 mins             █████████████░░░░░░░░░░░░   53.49 % 
+Terraform                26 mins             ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Other                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-Claude Code              1 hr 17 mins        ████████████████████░░░░░   79.55 % 
-Neovim                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Claude Code              1 hr 19 mins        ████████████████████░░░░░   80.09 % 
+Neovim                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 
 🐱‍💻 Projects: 
-webservices-infra        1 hr 25 mins        ██████████████████████░░░   88.45 % 
-firefox                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-jsond                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+webservices-infra        1 hr 25 mins        ██████████████████████░░░   86.13 % 
+firefox                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+dotfiles                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+jsond                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 **I Mostly Code in Go** 
@@ -79,7 +80,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 21:40:33 UTC
+ Last Updated on 27/09/2026 21:49:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
