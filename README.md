@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3304 commits        ████████░░░░░░░░░░░░░░░░░   32.08 % 
-🌆 Daytime                5833 commits        ██████████████░░░░░░░░░░░   56.64 % 
-🌃 Evening                1157 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+🌞 Morning                3169 commits        ████████░░░░░░░░░░░░░░░░░   32.07 % 
+🌆 Daytime                5598 commits        ██████████████░░░░░░░░░░░   56.66 % 
+🌃 Evening                1109 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1068 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Tuesday                  3847 commits        █████████░░░░░░░░░░░░░░░░   37.36 % 
-Wednesday                1822 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Thursday                 1572 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Friday                   1169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Saturday                 687 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Sunday                   133 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Monday                   1040 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Tuesday                  3659 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
+Wednesday                1762 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Thursday                 1529 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Friday                   1118 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Saturday                 640 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Sunday                   132 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 
 
@@ -50,18 +50,17 @@ Sunday                   133 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 51 mins             ██████████████░░░░░░░░░░░   57.18 % 
-Terraform                26 mins             ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Terraform                24 mins             ███████████░░░░░░░░░░░░░░   44.20 % 
+Markdown                 18 mins             ████████░░░░░░░░░░░░░░░░░   33.72 % 
+Other                    12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
 
 🔥 Editors: 
-Claude Code              1 hr 11 mins        ████████████████████░░░░░   78.19 % 
-Neovim                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Claude Code              41 mins             ███████████████████░░░░░░   76.49 % 
+Neovim                   12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
 
 🐱‍💻 Projects: 
-webservices-infra        1 hr 25 mins        ████████████████████████░   94.32 % 
-dotfiles                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+webservices-infra        52 mins             ████████████████████████░   95.24 % 
+dotfiles                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 **I Mostly Code in Go** 
@@ -77,7 +76,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 22:50:42 UTC
+ Last Updated on 30/09/2026 22:47:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
