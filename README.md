@@ -9,7 +9,7 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -26,19 +26,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3194 commits        ████████░░░░░░░░░░░░░░░░░   32.09 % 
-🌆 Daytime                5634 commits        ██████████████░░░░░░░░░░░   56.61 % 
+🌞 Morning                3194 commits        ████████░░░░░░░░░░░░░░░░░   32.07 % 
+🌆 Daytime                5640 commits        ██████████████░░░░░░░░░░░   56.64 % 
 🌃 Evening                1120 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1044 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Tuesday                  3693 commits        █████████░░░░░░░░░░░░░░░░   37.11 % 
-Wednesday                1771 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Thursday                 1536 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Friday                   1125 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Monday                   1045 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Tuesday                  3694 commits        █████████░░░░░░░░░░░░░░░░   37.10 % 
+Wednesday                1772 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Thursday                 1536 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Friday                   1128 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 Saturday                 651 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 Sunday                   132 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
@@ -50,13 +50,13 @@ Sunday                   132 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dotfiles                 2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -72,7 +72,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 21:59:30 UTC
+ Last Updated on 04/10/2026 22:04:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
