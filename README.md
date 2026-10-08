@@ -15,7 +15,7 @@
 
 > 📦 67.6 kB Used in GitHub's Storage 
  > 
-> 🏆 486 Contributions in the Year 2026
+> 🏆 490 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3380 commits        ████████░░░░░░░░░░░░░░░░░   32.06 % 
-🌆 Daytime                5969 commits        ██████████████░░░░░░░░░░░   56.61 % 
-🌃 Evening                1191 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+🌞 Morning                3166 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
+🌆 Daytime                5470 commits        ██████████████░░░░░░░░░░░   56.04 % 
+🌃 Evening                1121 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1114 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Tuesday                  3904 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
-Wednesday                1869 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Thursday                 1618 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Friday                   1199 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Saturday                 701 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Sunday                   139 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Monday                   1046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Tuesday                  3500 commits        █████████░░░░░░░░░░░░░░░░   35.86 % 
+Wednesday                1748 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Thursday                 1536 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Friday                   1147 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Saturday                 652 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Sunday                   132 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 
@@ -50,33 +50,34 @@ Sunday                   139 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 4 mins              ████████████░░░░░░░░░░░░░   46.21 % 
-Text                     3 mins              ████████░░░░░░░░░░░░░░░░░   31.23 % 
-Other                    2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+Markdown                 18 mins             ██████████████████░░░░░░░   71.13 % 
+Text                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Terraform                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 🔥 Editors: 
-Claude Code              7 mins              █████████████████░░░░░░░░   68.77 % 
-Neovim                   3 mins              ████████░░░░░░░░░░░░░░░░░   31.23 % 
+Claude Code              23 mins             ██████████████████████░░░   87.87 % 
+Neovim                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 
 🐱‍💻 Projects: 
-addons-yara-scanner      7 mins              █████████████████░░░░░░░░   68.77 % 
-webservices-infra        3 mins              ████████░░░░░░░░░░░░░░░░░   31.23 % 
+webservices-infra        19 mins             ██████████████████░░░░░░░   73.28 % 
+addons-yara-scanner      7 mins              ███████░░░░░░░░░░░░░░░░░░   26.72 % 
 ```
 
 **I Mostly Code in Go** 
 
 ```text
-Go                       15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Shell                    7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Go                       15 repos            ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Shell                    7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
 
 
- Last Updated on 07/10/2026 23:34:30 UTC
+ Last Updated on 08/10/2026 23:48:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
