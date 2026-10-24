@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3455 commits        ████████░░░░░░░░░░░░░░░░░   32.50 % 
-🌆 Daytime                5953 commits        ██████████████░░░░░░░░░░░   55.99 % 
-🌃 Evening                1220 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+🌞 Morning                3468 commits        ████████░░░░░░░░░░░░░░░░░   32.52 % 
+🌆 Daytime                5970 commits        ██████████████░░░░░░░░░░░   55.98 % 
+🌃 Evening                1223 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1115 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Tuesday                  3852 commits        █████████░░░░░░░░░░░░░░░░   36.23 % 
-Wednesday                1891 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Thursday                 1648 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Friday                   1243 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Saturday                 744 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Sunday                   139 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Monday                   1118 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Tuesday                  3862 commits        █████████░░░░░░░░░░░░░░░░   36.21 % 
+Wednesday                1899 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Thursday                 1656 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Friday                   1244 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Saturday                 746 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Sunday                   140 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 
 
@@ -50,22 +50,22 @@ Sunday                   139 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 8 hrs 17 mins       ██████████████████░░░░░░░   71.65 % 
-Text                     1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Terraform                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Markdown                 7 hrs 1 min         ████████████████████░░░░░   81.60 % 
+Text                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Nix                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 5 mins       ████████████████████████░   95.99 % 
-Neovim                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Claude Code              7 hrs 57 mins       ███████████████████████░░   92.50 % 
+Neovim                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🐱‍💻 Projects: 
-webservices-infra        5 hrs 25 mins       ████████████░░░░░░░░░░░░░   46.89 % 
-addons-yara-scanner      3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-dotfiles                 1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-zettelkasten             38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-workarea                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+addons-yara-scanner      2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.21 % 
+webservices-infra        2 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+dotfiles                 1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+zettelkasten             38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+workarea                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 ```
 
 **I Mostly Code in Go** 
@@ -81,7 +81,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:53:47 UTC
+ Last Updated on 24/10/2026 21:22:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
