@@ -13,7 +13,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 67.6 kB Used in GitHub's Storage 
+> 📦 67.7 kB Used in GitHub's Storage 
  > 
 > 🏆 594 Contributions in the Year 2026
  > 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3540 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
-🌆 Daytime                6111 commits        ██████████████░░░░░░░░░░░   56.00 % 
-🌃 Evening                1257 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+🌞 Morning                3595 commits        ████████░░░░░░░░░░░░░░░░░   32.24 % 
+🌆 Daytime                6239 commits        ██████████████░░░░░░░░░░░   55.95 % 
+🌃 Evening                1313 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1134 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Tuesday                  3980 commits        █████████░░░░░░░░░░░░░░░░   36.47 % 
-Wednesday                1924 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Thursday                 1671 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Friday                   1285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Saturday                 780 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Sunday                   138 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Monday                   1177 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Tuesday                  4033 commits        █████████░░░░░░░░░░░░░░░░   36.17 % 
+Wednesday                1960 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Thursday                 1738 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Friday                   1311 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Saturday                 788 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Sunday                   144 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 
 
@@ -50,22 +50,22 @@ Sunday                   138 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 3 hrs 16 mins       █████████████░░░░░░░░░░░░   51.11 % 
-Text                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Terraform                46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Python                   41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Markdown                 4 hrs 40 mins       █████████████░░░░░░░░░░░░   53.55 % 
+Terraform                1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Text                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 12 mins       ████████████████████░░░░░   81.22 % 
-Neovim                   1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Claude Code              7 hrs 18 mins       █████████████████████░░░░   83.81 % 
+Neovim                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 
 🐱‍💻 Projects: 
-webservices-infra        4 hrs 4 mins        ████████████████░░░░░░░░░   63.50 % 
-Unknown Project          1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-addons-yara-scanner      1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-addons-server            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-zettelkasten             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+webservices-infra        6 hrs 22 mins       ██████████████████░░░░░░░   73.13 % 
+Unknown Project          1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+addons-yara-scanner      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+addons-customs-scanner   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+addons-server            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 
 **I Mostly Code in Go** 
@@ -81,7 +81,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 23:13:19 UTC
+ Last Updated on 30/10/2026 22:53:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
