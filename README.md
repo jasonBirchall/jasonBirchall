@@ -9,7 +9,7 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3595 commits        ████████░░░░░░░░░░░░░░░░░   32.24 % 
-🌆 Daytime                6239 commits        ██████████████░░░░░░░░░░░   55.95 % 
-🌃 Evening                1313 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+🌞 Morning                3634 commits        ████████░░░░░░░░░░░░░░░░░   32.39 % 
+🌆 Daytime                6268 commits        ██████████████░░░░░░░░░░░   55.87 % 
+🌃 Evening                1313 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1177 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Tuesday                  4033 commits        █████████░░░░░░░░░░░░░░░░   36.17 % 
-Wednesday                1960 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Thursday                 1738 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Friday                   1311 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday                 788 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Sunday                   144 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Monday                   1159 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Tuesday                  4076 commits        █████████░░░░░░░░░░░░░░░░   36.33 % 
+Wednesday                1979 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Thursday                 1755 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Friday                   1304 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Saturday                 801 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Sunday                   145 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 
 
@@ -50,22 +50,22 @@ Sunday                   144 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 4 hrs 40 mins       █████████████░░░░░░░░░░░░   53.55 % 
-Terraform                1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Text                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Markdown                 3 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.55 % 
+Terraform                1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Text                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 18 mins       █████████████████████░░░░   83.81 % 
-Neovim                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Claude Code              6 hrs 49 mins       █████████████████████░░░░   85.16 % 
+Neovim                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 
 🐱‍💻 Projects: 
-webservices-infra        6 hrs 22 mins       ██████████████████░░░░░░░   73.13 % 
-Unknown Project          1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-addons-yara-scanner      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-addons-customs-scanner   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-addons-server            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+webservices-infra        5 hrs 54 mins       ██████████████████░░░░░░░   73.56 % 
+Unknown Project          1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+addons-yara-scanner      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+addons-customs-scanner   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+addons-server            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 **I Mostly Code in Go** 
@@ -81,7 +81,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 22:53:01 UTC
+ Last Updated on 31/10/2026 22:05:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
