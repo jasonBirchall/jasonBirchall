@@ -9,13 +9,13 @@
 <h2>Metrics</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 67.8 kB Used in GitHub's Storage 
  > 
-> 🏆 714 Contributions in the Year 2026
+> 🏆 716 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4686 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-🌆 Daytime                7882 commits        ██████████████░░░░░░░░░░░   55.80 % 
-🌃 Evening                1554 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+🌞 Morning                4710 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+🌆 Daytime                7924 commits        ██████████████░░░░░░░░░░░   55.80 % 
+🌃 Evening                1563 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1288 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Tuesday                  5449 commits        ██████████░░░░░░░░░░░░░░░   38.57 % 
-Wednesday                2396 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Thursday                 2100 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Friday                   1624 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Saturday                 1128 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Sunday                   141 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Monday                   1293 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Tuesday                  5483 commits        ██████████░░░░░░░░░░░░░░░   38.61 % 
+Wednesday                2406 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Thursday                 2107 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Friday                   1634 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Saturday                 1137 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Sunday                   141 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 
@@ -50,21 +50,21 @@ Sunday                   141 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.04 % 
-Terraform                1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-YAML                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Other                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Nix                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Markdown                 3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
+Terraform                1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+YAML                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Nix                      50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 4 mins       ███████████████████████░░   93.35 % 
-Neovim                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Claude Code              11 hrs 1 min        ███████████████████████░░   93.33 % 
+Neovim                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🐱‍💻 Projects: 
-webservices-infra        4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
-addons-customs-scanner   3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-dotfiles.nosync          2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-addons-yara-scanner      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+webservices-infra        4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.79 % 
+addons-customs-scanner   3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+dotfiles.nosync          2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+addons-yara-scanner      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 local-config             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
@@ -81,7 +81,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 01:09:41 UTC
+ Last Updated on 21/11/2026 00:28:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
