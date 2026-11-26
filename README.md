@@ -15,7 +15,7 @@
 
 > 📦 67.7 kB Used in GitHub's Storage 
  > 
-> 🏆 751 Contributions in the Year 2026
+> 🏆 780 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4934 commits        ████████░░░░░░░░░░░░░░░░░   33.06 % 
-🌆 Daytime                8335 commits        ██████████████░░░░░░░░░░░   55.85 % 
-🌃 Evening                1651 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+🌞 Morning                4766 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+🌆 Daytime                8054 commits        ██████████████░░░░░░░░░░░   55.84 % 
+🌃 Evening                1600 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1344 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Tuesday                  5796 commits        ██████████░░░░░░░░░░░░░░░   38.84 % 
-Wednesday                2502 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Thursday                 2179 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Friday                   1733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 1218 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Sunday                   152 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Monday                   1303 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Tuesday                  5603 commits        ██████████░░░░░░░░░░░░░░░   38.84 % 
+Wednesday                2417 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Thursday                 2104 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Friday                   1676 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Saturday                 1174 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Sunday                   147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 
@@ -50,15 +50,15 @@ Sunday                   152 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Markdown                 2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-YAML                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Terraform                1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-sh                       48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Rust                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Markdown                 4 hrs 25 mins       ████████████░░░░░░░░░░░░░   46.65 % 
+Other                    2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+sh                       48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Rust                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+tmux                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 28 mins       ████████████████████████░   94.27 % 
-Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Claude Code              9 hrs               ████████████████████████░   95.01 % 
+Neovim                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 ```
 
 **I Mostly Code in Go** 
@@ -74,7 +74,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 04:24:12 UTC
+ Last Updated on 26/11/2026 02:17:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
